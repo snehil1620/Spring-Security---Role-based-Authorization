@@ -1,0 +1,2 @@
+# Spring-Security---Role-based-Authorization
+This project is based on role-based authorization and access, showing user-specific  content based on their defined roles on the same JSP page without creating the multiple ones. Here I have  used MySQL database for storing user passwords using “bcrypt” password hashing function. I have used  maven for managing all my dependencies and spring MVC architecture for my web application. This  application is managed by Spring Security filters based on the security logic
